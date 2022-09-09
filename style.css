@@ -1,0 +1,18 @@
+a {color: rgb(255, 255, 0);}
+h1 {text-align: center;font-size: 48px;}
+table {font-size: 20px;}
+img {text-align: center;}
+
+#Home {background-color: aquamarine;}
+#NES {background-color: cornflowerblue;}
+#SNES {background-color: darkorchid;}
+#GameCube {background-color: deeppink;}
+#Wii {background-color: lightcoral;}
+#Switch {background-color: lightskyblue;}
+
+.Homepg {color:firebrick;}
+.NESpg {color: hotpink;}
+.SNESpg {color:blue ;}
+.Cubepg {color: indigo;}
+.Wiipg {color: olive;}
+.Switchpg {color: violet;}

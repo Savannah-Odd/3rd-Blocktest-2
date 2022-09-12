@@ -1,8 +1,19 @@
-a {color: rgb(255, 255, 0);}
-h1 {text-align: center;font-size: 48px;}
-table {font-size: 20px;}
-img {text-align: center;}
-body {font-size: 20px;}
+a {
+    color: rgb(255, 255, 0);
+}
+h1 {
+    text-align: center;
+    font-size: 48px;
+}
+table {
+    font-size: 20px;
+}
+img {
+    text-align: center;
+}
+body {
+    font-size: 20px;
+}
 
 #Home {background-color: aquamarine;}
 #NES {background-color: cornflowerblue;}
@@ -18,7 +29,17 @@ body {font-size: 20px;}
 .Wiipg {color: olive;}
 .Switchpg {color: violet;}
 
-ol {display: table; margin:0 auto ;}
-.table {text-align: center;}
-.PD {text-align: center;}
-.table {margin: auto;}
+ol {
+    display: table; 
+    margin:0 auto ;
+}
+.navbar {
+    text-align: center; 
+    margin: auto;
+}
+.PD {
+    height: 300px;
+}
+.pic {
+    text-align: center;
+}
